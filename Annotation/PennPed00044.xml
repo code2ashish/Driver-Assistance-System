@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>PennPed00044.png</filename>
+	<path>/my-project-name/PennPed00044.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>483</width>
+		<height>335</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>56</ymin>
+			<xmax>333</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>
