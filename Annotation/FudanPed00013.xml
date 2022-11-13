@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>FudanPed00013.png</filename>
+	<path>/my-project-name/FudanPed00013.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>652</width>
+		<height>498</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>193</ymin>
+			<xmax>525</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>
